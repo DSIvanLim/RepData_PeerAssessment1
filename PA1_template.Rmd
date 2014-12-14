@@ -1,8 +1,18 @@
+<<<<<<< HEAD
 # Reproducible Research: Peer Assessment 1
+=======
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
 
 
 ## Loading and preprocessing the data
 
+<<<<<<< HEAD
 ``` {r echo = TRUE}
   library(ggplot2)
   library(plyr)
@@ -60,3 +70,20 @@ A new field is created, imputed, which at first merely replicates the steps fiel
   grid.arrange(weekendplot, weekdayplot)
 ```
 
+=======
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
